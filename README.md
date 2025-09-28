@@ -338,12 +338,5 @@ if __name__ == '__main__':
 
 ---
 
-## Como eu posso ajudar mais
-
-* Gerar um `README.md` final pronto para subir no GitHub (versão completa já disponível neste documento).
-* Gerar os arquivos `.txt` e os scripts em Python prontos para download.
-* Revisar seu repositório quando você subir no GitHub.
-
----
 
 > Observação final: todos os scripts fornecidos em `/scripts_defesa` são **defensivos** e seguros para execução em ambiente de testes. As simulações em `/simulacoes` são pseudocódigo e arquivos explicativos — **não** realizam ações perigosas.
